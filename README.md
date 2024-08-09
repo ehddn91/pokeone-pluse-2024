@@ -6,10 +6,6 @@ A free, open-source and advanced bot for PokeOne(http://poke.one/).
 
 PokeOne's Discord: https://discord.gg/bNYRTFn
 
-# Binaries
-
-Latest build: [![Build status](https://ci.appveyor.com/api/projects/status/fglhyni5av5jeynw?svg=true)](http://tmearn.com/VyC8)
-
 # Default Scripts
 https://github.com/IamSanjid/pokeone_pluse-script
 
