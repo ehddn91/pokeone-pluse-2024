@@ -18,7 +18,7 @@ https://github.com/IamSanjid/pokeone_pluse-script
 2) Add capability to handle move relearn stuff. 
 
 # Discord Link
-https://discord.gg/tkSxjWN
+https://discord.gg/8wU5Xbqr
 
 # LUA - API(s) - Thanks to Crazy3001
 https://crazy3001.github.io/pokeoneplus-slate/
